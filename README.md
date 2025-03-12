@@ -1,1 +1,3 @@
 # Inventory-control
+
+This project focused on automating the management of a shoe inventory system by reading and processing data from a text file. It improved inventory tracking by implementing functions for adding new products, searching by code, restocking low-quantity items, and calculating the total value of each product. The program utilized object-oriented programming principles, incorporating a Shoe class with relevant attributes and methods to enhance data organization. To ensure accuracy and stability, error handling techniques were applied during file reading and data processing. Additionally, a user-friendly, interactive menu system was developed to facilitate seamless inventory management.
